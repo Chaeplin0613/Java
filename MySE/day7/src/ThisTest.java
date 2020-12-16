@@ -43,7 +43,7 @@ public class ThisTest {
 		                 //c1이 참조하고 있는 객체 안에 radius가 있어야 한다는 뜻
 		//c1.radius = -1.2;
 		c1.setRadius(5.7); //setRadius메소드 기능으로 5.7을 입력
-		c1.setRadius(-1.2); 
+//		c1.setRadius(-1.2); 
 		
 		Circle c2 = new Circle();
 		c2.setRadius(2.3);
