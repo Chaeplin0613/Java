@@ -48,7 +48,7 @@ public class DateCalendar {
 	//    1 2  3 4 5  6 
 
 	System.out.println("\n2021년 2월 달력");
-	System.out.print("일   월   화  수  목   금   토");
+	System.out.print("일   월  화   수  목   금   토");
 
 	int maxDate = feb.getActualMaximum(Calendar.DATE);
 	int cnt = 0;
